@@ -1,4 +1,4 @@
-class rotate {
+class Arrayrotate {
 
   void leftrotate(int arr[], int d,int n ){
 
@@ -25,7 +25,7 @@ class rotate {
 
       for (int i=0; i < n; i++) {
         System.out.print(arr[i] + " ");
-        
+
 
       }
     }
