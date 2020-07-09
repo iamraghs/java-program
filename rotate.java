@@ -11,9 +11,9 @@ class rotate {
   void leftrotatebyone(int arr[],int n){
 
     int i,temp;
-    temp = arr[0];
-    for (i=0; i<n-1; i++) {
-      arr[i]=arr[i+1];
+    temp = arr[n-1];
+    for (i=n-1; i >= 1; i--) {
+      arr[i]=arr[i-1];
 
     }
     arr[i]=temp;
