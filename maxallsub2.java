@@ -13,7 +13,7 @@ class maxallsub2
       }
 
     }
-    System.out.print("product of all sub arry is " + res);
+    System.out.print("product of all sub array is " + res);
 
   }
 
