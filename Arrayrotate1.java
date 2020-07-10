@@ -40,7 +40,7 @@ class Arrayrotate1
 
   public static void main(String args[])
   {
-      rotate1 rotate = new rotate1();
+      Arrayrotate1 rotate = new Arrayrotate1();
       int arr[] = {1,2,3,4,5,6,7,8,9};
       int d=2;
       int n = arr.length;

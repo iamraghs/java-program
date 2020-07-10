@@ -34,7 +34,7 @@ class Arrayrotate {
 
    public static void main(String[] args) {
 
-     rotate rott = new rotate();
+     Arrayrotate rott = new Arrayrotate();
      int arr[]={1,2,3,4,5,6,7,8,9};
      rott.leftrotate(arr,2,9);
      rott.printarray(arr,9);
