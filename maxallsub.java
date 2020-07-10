@@ -22,6 +22,5 @@ class maxallsub
     maxallsub max = new maxallsub();
     int arr[] ={ 10, 3, 7};
     max.allsubarray(arr);
-
   }
 }
